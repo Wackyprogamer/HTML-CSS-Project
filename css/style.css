@@ -1,0 +1,290 @@
+body {
+
+
+width: auto;
+
+margin: 0;
+
+padding: 0;
+
+height: auto;
+
+display: flex;
+
+
+}
+
+.entireContainer {
+
+    width: 100%;
+
+}
+
+
+
+.navigation {
+
+   display: flex;
+
+   width: 100%;
+
+   justify-content: space-between;
+
+   align-items: center;
+
+   padding-top: 20px;
+
+   padding-bottom: 20px;
+
+   background-color: #F1A536;
+   
+}
+
+.navLogo {
+
+    margin-left: 100px;
+
+}
+
+.navLogo img {
+
+    max-width: 100%;
+
+}
+
+.navLinks {
+
+
+    display: flex;
+
+    justify-content: flex-end;
+
+    align-items: center;
+
+    padding-right: 150px;
+
+    
+
+}
+
+.navLinks a {
+
+    margin-left: 20px;
+
+    text-decoration: none;
+
+    font-size: 30px;
+
+    padding: 0 40px;
+
+    color: black;
+
+}
+
+.weekPhoto {
+
+    width: auto;
+
+
+}
+
+.heroPhoto img{
+    
+
+    width: 100%;
+
+    height: auto;
+   
+    object-fit: cover;
+
+}
+
+.everydayCategories {
+
+padding: 40px;
+
+background-color: #FFFFFF;
+
+
+}
+
+.description {
+
+    display: flex;
+
+    flex-direction: column;
+
+    padding-left: 200px;
+
+    padding-right: 200px;
+
+    padding-top: 60px;
+
+}
+
+.description h1 {
+
+    font-size: 60px;
+    
+}
+
+.description p {
+
+    font-size: 40px;
+
+}
+
+.everyDayPhotos {
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: space-evenly;
+
+    
+}
+
+
+
+.healthyRecipesCategory {
+
+    background-color: #DADFEA;
+
+    padding: 40px;
+
+
+}
+
+.healthyPhotos {
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: space-evenly;
+
+
+}
+
+.fajitaPhoto {
+
+    background-color: white;
+
+    height: 40%;
+}
+
+.muffinPhoto {
+
+    background-color: white;
+
+    height: 40%;
+
+}
+
+.eggplantPhoto{
+
+    background-color: white;
+
+    height: 40%;
+
+}
+
+.teriyakiPhoto {
+
+    background-color: white;
+
+    height: 40%;
+
+
+}
+
+.wheretoEatCategory {
+
+
+padding: 40px;
+
+background-color: #FFFFFF;
+    
+
+}
+
+.wheretoEatPhotos {
+
+    display: flex;
+
+    flex-direction: row;
+
+    justify-content: space-evenly;
+
+
+}
+
+.footer {
+
+    display: flex;
+ 
+    width: 100%;
+ 
+    justify-content: space-between;
+ 
+    align-items: center;
+ 
+    padding-top: 20px;
+ 
+    padding-bottom: 20px;
+ 
+    background-color: #F1A536;
+    
+ }
+ 
+ .footerLogo {
+ 
+     margin-left: 100px;
+ 
+ }
+ 
+ .footerLogo img {
+ 
+     max-width: 100%;
+ 
+ }
+ 
+ .footerLinks {
+ 
+ 
+     display: flex;
+ 
+     justify-content: flex-end;
+ 
+     align-items: center;
+ 
+     padding-right: 150px;
+ 
+     
+ 
+ }
+ 
+ .footerLinks a {
+ 
+     margin-left: 20px;
+ 
+     text-decoration: none;
+ 
+     font-size: 30px;
+ 
+     padding: 0 40px;
+ 
+     color: black;
+ 
+ }
+ 
+
+
+
+
+
+
+
+
+
