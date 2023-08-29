@@ -142,9 +142,69 @@ background-color: #FFFFFF;
 
     justify-content: space-evenly;
 
-    
+    width: auto;
 }
 
+.breakfastImportant {
+
+    width: 44%;
+
+    height: 50%;
+    
+
+}
+
+.breakfastImportant img {
+
+    width: 100%;
+
+    height: 100%;
+
+    object-fit: cover;
+
+    object-fit: fill;
+
+}
+
+.vegetarianLunch {
+
+    width: 25%;
+
+    height: 20%;
+
+}
+
+.vegetarianLunch img {
+
+    width: 100%;
+
+    height: 100%;
+
+    object-fit: contain;
+
+    object-fit: fill;
+
+}
+
+.coldWeatherDinners {
+
+    width: 55.5%;
+
+    height: 50%;
+
+}
+
+.coldWeatherDinners img {
+
+    width: 60%;
+
+    height: 100%;
+
+    object-fit: cover;
+
+    object-fit: fill;
+
+}
 
 
 .healthyRecipesCategory {
@@ -186,7 +246,17 @@ background-color: #FFFFFF;
 
     background-color: white;
 
-    height: 40%;
+    width: 15.6%;
+
+    height: 100%;
+
+}
+
+.eggplantPhoto img {
+
+width: 100%;
+
+height: 100%;
 
 }
 
@@ -278,7 +348,320 @@ background-color: #FFFFFF;
      color: black;
  
  }
+
+ .hamburgerOfTheWeekImage {
+
+    display: flex;
+
+    justify-content: center;
+
+    position: relative;
+
+    width: 100%;
+
+    height: 30%;
+
+
+ }
+
+ .hamburgerOfTheWeekImage img {
+
+    height: 100%;
+
+    width: 100%;
+
+    object-fit: cover;
+
+
+ }
+
+ .textonImage {
+
+    position: absolute;
+
+    margin-top: 50%;
+
+    background-color: white;
+
+    padding: 0 40px;
+
+    font-size: 20px;
+
+    font-weight: bolder;
+
+ }
+
+ .time {
+
+    padding: 10px 0 30px 8%;
+
+    background-color: #DADFEA;
+
+ }
+
+ .timeHeader {
+
+    font-size: 38px;
+
+ }
+
+ .descriptionBurger {
+
+    display: flex;
+
+    flex-direction: row;
+
+   font-size: 25px;
+
+ }
+
+ .descriptionBurger2ndRow {
+
+    display: flex;
+
+    flex-direction: row;
+
+    padding-top: 1%;
+
+    font-size: 25px;
+
+
+ }
+
+ .bold {
+
+    font-weight: bold;
+
+ }
+
+ .easy {
+
+    padding-right: 10%;
+    padding-left: 0.5%;
+ }
+
+ .min10 {
+
+    padding-right: 10%;
+    padding-left: 0.5%;
+ }
+
+ .ham4 {
+
+    padding-left: 0.5%;
+
+}
+
+.min25 {
+
+    padding-right: 9%;
+    padding-left: 0.5%;
+
+}
+
+.min15 {
+
+    padding-left: 0.5%;
+
+}
+
+
+
+ .bengalName {
+
+    display: flex;
+
+    justify-content: center;
+
+    font-size: 38px;
+
+
+ }
+
+ .stars {
+
+    display: flex;
+
+    justify-content: center;
+
+    padding-bottom: 2%;
+
+
+ }
+
+ .starsAmount {
+
+    padding: 0 2%;
+
+ }
+
+ .reviews {
+
+    padding: 0 2%;
+
+    font-size: 20px;
+
+ }
+
+ .bengalButtons {
+
+    display: flex;
+
+    justify-content: center;
+
+    padding-bottom: 5%;
+
+ }
+
+
+ .recipeSave {
+
+    margin-right: 2%;
+
+    font-size: 20px;
+
+    border-radius: 24px;
+
+    padding: 8px 30px;
+
+    color: white;
+
+    background-color: #A63223;
+
+    border-color: #A63223;
+
+    cursor: pointer;
+
+ }
+
+ .bengalButtons img {
+
+    margin-left: 2%;
+
+    border: 4px solid;
+
+    border-radius: 40px;
+
+    border-color: grey;
+
+    padding: 4px;
+
+    width: 2%;
+
+    cursor: pointer;
+
+    opacity: 40%;
+
+    
+ }
+
+ .bengalDescription {
+
+    width: auto;
+
+    background-color: #EDF0F4;
+
+    padding: 80px;
+
+    font-size: 30px;
+
+    margin-left: 20%;
+
+    margin-right: 20% ;
+
+    color: #575656;
+
+    font-weight: bolder;
+
+
+ }
+
+
+
+ .rowStuff {
+
+    display: flex;
+
+    flex-direction: row;
+
+    margin-bottom: 10%;
+
+ }
  
+ .bengalIngredients {
+
+    display: flex;
+
+    flex-direction: column;
+
+    width: 50%;
+
+    margin-left: 20%;
+
+
+
+ }
+
+ .bengalIngredients h2 {
+
+    font-size: 35px;
+
+    font-weight: bolder;
+
+ }
+
+ .ingredients {
+
+    font-size: 25px;
+
+ }
+
+ .ingredients h3 {
+
+    margin-bottom: 0;
+
+
+ }
+
+ .bengalDirections {
+
+    display: flex;
+
+    flex-direction: column;
+
+    width: 50%;
+
+    margin-right: 20%;
+
+ }
+
+ .bengalDirections h2 {
+
+    font-size: 35px;
+
+    font-weight: bolder;
+
+ }
+
+ .bengalDirectionList {
+
+    font-size: 25px
+
+ }
+
+ .bengalDirectionList li {
+
+    padding: 12px 0;;
+
+ }
+
+ .bengalDirectionList h3{
+
+    margin-bottom: 0;
+
+    font-weight: bold;
+
+ }
 
 
 
